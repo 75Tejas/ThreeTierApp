@@ -1,4 +1,4 @@
-# #TWSThreeTierAppChallenge
+# #TWSThreeTierApp
 
 ## Overview
 This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
